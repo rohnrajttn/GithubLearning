@@ -1,2 +1,3 @@
 file create in 3rd branch
 file changed by branch -b2
+learning about conflict-b2
