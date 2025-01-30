@@ -1,0 +1,3 @@
+file create in 3rd branch
+file changed by branch -b2
+file changed by branch -b1
