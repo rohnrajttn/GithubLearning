@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello naveen from b2
+=======
+hello naveen from b1
+>>>>>>> d51d856a7e7eb94d4583a9652b96e207a6d5337c
